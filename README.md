@@ -6,7 +6,7 @@ I'm passionate about building future-ready organizations where People, Process, 
 
 ## What I've built
 
-- 🎓 **[LR Virtual Classroom](https://lrvirtualclassroom.co.in/)** — my personal learning platform for professionals building new skills and preparing for certifications ([repo](https://github.com/rlashmibai/LR-Virtual-Classroom))
+- 🎓 **[LR Virtual Classroom](https://lrvirtualclassroom.co.in/)** — Your Hub for Delivery Excellence ([repo](https://github.com/rlashmibai/LR-Virtual-Classroom))
 - 📘 **[LR PL-900 Practice Test](https://rlashmibai.github.io/LR-PL-900-Practice-Test/)** — 600 free practice questions for the Microsoft PL-900 (Power Platform Fundamentals) exam
 - 📊 **[LR PL-300 Practice Test](https://rlashmibai.github.io/LR-PL-300-Practice-Test/)** — 600 free practice questions for the Microsoft PL-300 (Power BI Data Analyst) exam
 
