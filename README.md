@@ -8,7 +8,7 @@ I'm passionate about building future-ready organizations where People, Process, 
 
 - 📘 **[LR PL-900 Practice Test](https://rlashmibai.github.io/LR-PL-900-Practice-Test/)** - 600 free practice questions for the Microsoft PL-900 (Power Platform Fundamentals) exam ([repo](https://github.com/rlashmibai/LR-PL-900-Practice-Test))
 - 📊 **[LR PL-300 Practice Test](https://rlashmibai.github.io/LR-PL-300-Practice-Test/)** - 600 free practice questions for the Microsoft PL-300 (Power BI Data Analyst) exam ([repo](https://github.com/rlashmibai/LR-PL-300-Practice-Test))
-- 🧮 **[Abacus Test Portal](https://abacus-test-portal-lr.netlify.app/)** - Free abacus practice that builds quick mental math. Built for kids, loved by abacus centers, always free. ([repo](https://github.com/rlashmibai/abacus-test-portal))
+- 🧮 **[Abacus Test Portal](https://abacus-test-portal-lr.netlify.app/)** - Free abacus practice that builds quick mental math. Built for kids, always free. ([repo](https://github.com/rlashmibai/abacus-test-portal))
 
 ## Let's connect
 
