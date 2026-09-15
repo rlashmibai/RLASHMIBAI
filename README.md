@@ -10,7 +10,7 @@ I'm passionate about building future-ready organizations where People, Process, 
   - 600 original questions across 12 full-length tests, aligned to the official PL-900 study guide (including the 2026 Copilot Studio/generative AI update)
   - Practice by official exam domain, with a domain-wise score breakdown
   - Timed exam mode or untimed practice mode with instant, per-option explanations
-  - Optional sign-in keeps your score history across visits — no account needed to just start practicing
+  - Optional sign-in keeps your score history across visits, no account needed to just start practicing
   - Installable PWA with a mobile-optimized test-taking experience
 
 - 📊 **[LR PL-300 Practice Test](https://rlashmibai.github.io/LR-PL-300-Practice-Test/)** - 600 free practice questions for the Microsoft PL-300 (Power BI Data Analyst) exam
