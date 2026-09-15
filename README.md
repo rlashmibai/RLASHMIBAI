@@ -27,10 +27,25 @@ I'm passionate about building future-ready organizations where People, Process, 
   - Instant answer review, progress charts, and badges/certificates for milestones
   - No sign-up needed - jump in as a guest, or register to save your progress
 
-## What my son built using Google AI Studio
+## What my son built using Google AI Studio (with me helping)
 
 - 🍼 **[Tricky Toddlers](https://ais-pre-l45mxxgh4lq2v2k6cbni3q-26432502266.asia-southeast1.run.app)** - An all-in-one toddler parenting app, built as part of the iStartup Junior competition (April 2026 – September 2026)
-  - 15 integrated tools: AI Assistant, NutriBand™ Monitor, Food Lens Pro, Milestone Tracker, Routine Checker, Solid Food Guide, Pediatric Consults, Live Sessions, Doctor Chat, Growth Reports, Toddler Academy, Toddler TV, Parent Connect, Community Help, Baby Store
+  - 15 integrated tools:
+    - AI Assistant
+    - NutriBand™ Monitor
+    - Food Lens Pro
+    - Milestone Tracker
+    - Routine Checker
+    - Solid Food Guide
+    - Pediatric Consults
+    - Live Sessions
+    - Doctor Chat
+    - Growth Reports
+    - Toddler Academy
+    - Toddler TV
+    - Parent Connect
+    - Community Help
+    - Baby Store
 
 ## Let's connect
 
