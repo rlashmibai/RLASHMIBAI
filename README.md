@@ -29,7 +29,7 @@ I'm passionate about building future-ready organizations where People, Process, 
 
 ## What my son built using Google AI Studio
 
-- 🍼 **[https://trickytoddlers.vercel.app]** - An all-in-one toddler parenting app, built as part of the iStartup Junior competition (April 2026 – September 2026)
+- 🍼 **[Tricky Toddlers](https://trickytoddlers.vercel.app)** - An all-in-one toddler parenting app, built as part of the iStartup Junior competition (April 2026 – September 2026)
   - 15 integrated tools:
     - AI Assistant
     - NutriBand™ Monitor
